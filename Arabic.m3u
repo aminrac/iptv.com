@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTINF:-1, [COLOR green] --Midle Eastern Channels--[/COLOR]  
 #EXTINF:-1,MBC 2
 http://51.255.81.190:8080/MBC-2/playlist.m3u8
 #EXTINF:-1,MBC ACTION
@@ -11,6 +13,12 @@ http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
 http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
 #EXTINF:-1,OSN Movies
 http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
+#EXTINF:-1,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1, [COLOR green] --Moroccan Channels--[/COLOR]  
 #EXTINF:-1, alaoulainter
 http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=150000.m3u8
 #EXTINF:-1, alaoulalayoune
@@ -27,6 +35,8 @@ http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101=6400
 http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=150000.m3u8
 #EXTINF:-1, tamazight
 http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=150000.m3u8
+
+#EXTINF:-1, [COLOR green] --US Channels--[/COLOR]  
 #EXTINF:-1,USA: Fox 1
 http://cp.dmbshare.net:8000/live/tullio/tullio/4607.ts
 #EXTINF:-1,USA: Bein USA
@@ -44,19 +54,13 @@ http://cp.dmbshare.net:8000/live/tullio/tullio/4578.ts
 #EXTINF:-1,USA: Nick Jr
 http://cp.dmbshare.net:8000/live/tullio/tullio/4617.ts
 
-#EXTINF:-1,Dubai Drama
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Dubai Zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
-
+#EXTINF:-1, [COLOR green] --Sport Channels--[/COLOR]  
 #EXTINF:0,beinHD_Sports_HD1
 http://37.187.24.177:80/mans35/mans35/699.ch
 #EXTINF:0,beinHD_Sports_HD2
 http://37.187.24.177:80/mans35/mans35/700.ch
 #EXTINF:0,beinHD_Sports_HD3
 http://37.187.24.177:80/mans35/mans35/701.ch
-#EXTINF:0,beinHD_Sports_HD4
-http://37.187.24.177:80/mans35/mans35/702.ch
 #EXTINF:0,beinHD_Sports_HD5
 http://37.187.24.177:80/mans35/mans35/703.ch
 #EXTINF:0,beinHD_Sports_HD6
@@ -71,17 +75,3 @@ http://37.187.24.177:80/mans35/mans35/707.ch
 http://37.187.24.177:80/mans35/mans35/708.ch
 #EXTINF:0,beinHD_Sports_HD11
 http://37.187.24.177:80/mans35/mans35/709.ch
-#EXTINF:0,beinHD_Sports_HD12
-http://37.187.24.177:80/mans35/mans35/710.ch
-#EXTINF:0,beinHD_Sports_HD13
-http://37.187.24.177:80/mans35/mans35/711.ch
-#EXTINF:0,beinHD_Sports_HD14
-http://37.187.24.177:80/mans35/mans35/712.ch
-#EXTINF:0,beinHD_Sports_HD15
-http://37.187.24.177:80/mans35/mans35/713.ch
-#EXTINF:0,beinHD_Sports_HD16
-http://37.187.24.177:80/mans35/mans35/714.ch
-#EXTINF:0,beinHD Sport 1 FR
-http://37.187.24.177:80/mans35/mans35/715.ch
-#EXTINF:0,beinHD Sport 2 FR
-http://37.187.24.177:80/mans35/mans35/716.ch
