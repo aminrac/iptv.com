@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1, 2M Monde
+http://162.212.176.107:1935/2mmonde/globaltv-2mmonde.stream/playlist.m3u8
+#EXTINF:-1, Al Aoula
+http://162.212.176.107:1935/al_aoula_maroc/globaltv-al_aoula_maroc.stream/playlist.m3u8
+#EXTINF:-1, Al Riyadiya
+http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/playlist.m3u8
+#EXTINF:-1, Arrabia
+http://162.212.176.107:1935/arrabia/globaltv-arrabia.stream/playlist.m3u8
+#EXTINF:-1, Al Maghribia
+http://162.212.176.107/al_maghribia//globaltv-al_maghribia.stream/playlist.m3u8
+#EXTINF:-1, Assadisa
+http://162.212.176.107:1935/assadissa/globaltv-assadissa.stream/playlist.m3u8
 #EXTINF:-1,AR_TUNISIA_NATIONAL_1
 http://www.q7t1.com:8000/live/bk6/bk6/1.ts
 #EXTINF:-1,AR_TUNISIA_NATIONAL_2
