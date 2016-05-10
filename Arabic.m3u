@@ -43,3 +43,45 @@ http://cp.dmbshare.net:8000/live/tullio/tullio/4614.ts
 http://cp.dmbshare.net:8000/live/tullio/tullio/4578.ts
 #EXTINF:-1,USA: Nick Jr
 http://cp.dmbshare.net:8000/live/tullio/tullio/4617.ts
+
+#EXTINF:-1,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
+
+#EXTINF:0,beinHD_Sports_HD1
+http://37.187.24.177:80/mans35/mans35/699.ch
+#EXTINF:0,beinHD_Sports_HD2
+http://37.187.24.177:80/mans35/mans35/700.ch
+#EXTINF:0,beinHD_Sports_HD3
+http://37.187.24.177:80/mans35/mans35/701.ch
+#EXTINF:0,beinHD_Sports_HD4
+http://37.187.24.177:80/mans35/mans35/702.ch
+#EXTINF:0,beinHD_Sports_HD5
+http://37.187.24.177:80/mans35/mans35/703.ch
+#EXTINF:0,beinHD_Sports_HD6
+http://37.187.24.177:80/mans35/mans35/704.ch
+#EXTINF:0,beinHD_Sports_HD7
+http://37.187.24.177:80/mans35/mans35/705.ch
+#EXTINF:0,beinHD_Sports_HD8
+http://37.187.24.177:80/mans35/mans35/706.ch
+#EXTINF:0,beinHD_Sports_HD9
+http://37.187.24.177:80/mans35/mans35/707.ch
+#EXTINF:0,beinHD_Sports_HD10
+http://37.187.24.177:80/mans35/mans35/708.ch
+#EXTINF:0,beinHD_Sports_HD11
+http://37.187.24.177:80/mans35/mans35/709.ch
+#EXTINF:0,beinHD_Sports_HD12
+http://37.187.24.177:80/mans35/mans35/710.ch
+#EXTINF:0,beinHD_Sports_HD13
+http://37.187.24.177:80/mans35/mans35/711.ch
+#EXTINF:0,beinHD_Sports_HD14
+http://37.187.24.177:80/mans35/mans35/712.ch
+#EXTINF:0,beinHD_Sports_HD15
+http://37.187.24.177:80/mans35/mans35/713.ch
+#EXTINF:0,beinHD_Sports_HD16
+http://37.187.24.177:80/mans35/mans35/714.ch
+#EXTINF:0,beinHD Sport 1 FR
+http://37.187.24.177:80/mans35/mans35/715.ch
+#EXTINF:0,beinHD Sport 2 FR
+http://37.187.24.177:80/mans35/mans35/716.ch
