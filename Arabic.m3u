@@ -69,10 +69,50 @@ http://cp.dmbshare.net:8000/live/tullio/tullio/4601.ts
 http://cp.dmbshare.net:8000/live/tullio/tullio/4581.ts
 #EXTINF:-1,USA: NBC USA
 http://cp.dmbshare.net:8000/live/tullio/tullio/4578.ts
+#EXTINF:-1,USA: Showtime USA
+http://cp.dmbshare.net:8000/live/serkan/serkan/4581.ts
+#EXTINF:-1,USA: Syfy USA
+http://cp.dmbshare.net:8000/live/serkan/serkan/4593.ts
+#EXTINF:-1,USA: Starz
+http://cp.dmbshare.net:8000/live/serkan/serkan/4599.ts
+#EXTINF:-1,VIP: US STAR Z CINEMA
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9027.ts
+#EXTINF:-1,VIP: US CBS ACTION
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/10349.ts
+#EXTINF:-1,VIP: US ABC FAMILY
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/10345.ts
+#EXTINF:-1,VIP: US HBO SIGNATURE
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9016.ts
+#EXTINF:-1,VIP: US HBO COMEDY
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9017.ts
+#EXTINF:-1,VIP: US HBO
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9018.ts
+#EXTINF:-1,VIP: US HALLMARK
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9025.ts
+#EXTINF:-1,VIP: US FOOD NETWORK HD
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/10341.ts
+#EXTINF:-1,USA: History
+http://cp.dmbshare.net:8000/live/serkan/serkan/4573.ts
+#EXTINF:-1,USA: Destination America
+http://cp.dmbshare.net:8000/live/serkan/serkan/4608.ts
+#EXTINF:-1,USA: Cinemax East
+http://cp.dmbshare.net:8000/live/serkan/serkan/4600.ts
+
+
+
+
 
 #EXTINF:-1, [COLOR green] --News Channels--[/COLOR]  
-#EXTINF:-1,AR-Alghad-alaraby
-http://149.202.198.114:8000/play/aralghadalaraby
+#EXTINF:-1,VIP: US ABC NEWS
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9026.ts
+#EXTINF:-1,VIP: US CNBC
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9028.ts
+#EXTINF:-1,VIP: US CNN
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9029.ts
+#EXTINF:-1,VIP: US CBS NEWS
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9022.ts
+
+
 
 #EXTINF:-1, [COLOR green] --Sport Channels--[/COLOR]  
 #EXTINF:0,beinHD_Sports_HD1
@@ -99,29 +139,15 @@ http://37.187.24.177:80/mans35/mans35/708.ch
 http://37.187.24.177:80/mans35/mans35/709.ch
 
 #EXTINF:-1, [COLOR green] --Kids--[/COLOR]
-#EXTINF:-1,UK: Cartoon Network
-http://www.x-media.tv:58080/live/luanda75/satlover.com/89.ts
-#EXTINF:-1,UK: Nicktoons
-http://www.x-media.tv:58080/live/luanda75/satlover.com/91.ts
-#EXTINF:-1,UK: Nickelodeon Jr
-http://www.x-media.tv:58080/live/luanda75/satlover.com/92.ts
-#EXTINF:-1,UK: Nickelodeon
-http://www.x-media.tv:58080/live/luanda75/satlover.com/93.ts
-#EXTINF:-1,UK: Baby Tv
-http://www.x-media.tv:58080/live/luanda75/satlover.com/94.ts
-#EXTINF:-1,UK: Boomerang
-http://www.x-media.tv:58080/live/luanda75/satlover.com/95.ts
-#EXTINF:-1,UK: Sky Disney
-http://www.x-media.tv:58080/live/luanda75/satlover.com/96.ts
-#EXTINF:-1,UK: Disney Channel
-http://www.x-media.tv:58080/live/luanda75/satlover.com/97.ts
-#EXTINF:-1,UK: Disney Channel +1
-http://www.x-media.tv:58080/live/luanda75/satlover.com/125.ts
-#EXTINF:-1,UK: DISNEY JUNIOR
-http://www.x-media.tv:58080/live/luanda75/satlover.com/98.ts
-#EXTINF:-1,UK: Disney XD
-http://www.x-media.tv:58080/live/luanda75/satlover.com/99.ts
-#EXTINF:-1,UK: Disney XD +1
-http://www.x-media.tv:58080/live/luanda75/satlover.com/126.ts
 #EXTINF:-1,AR OSN YA HALA SHABAB By www.iptv4free.com
 http://149.202.198.114:8000/play/arosnyahalashabab
+#EXTINF:-1,USA: Nick Jr
+http://cp.dmbshare.net:8000/live/serkan/serkan/4617.ts
+#EXTINF:-1,USA: Spike USA
+http://cp.dmbshare.net:8000/live/serkan/serkan/4579.ts
+#EXTINF:-1,VIP: US NICK
+http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9012.ts
+
+
+
+
