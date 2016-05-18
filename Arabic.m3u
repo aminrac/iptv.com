@@ -4,47 +4,14 @@
 #EXTINF:-1,MBC 2
 http://51.255.81.190:8080/MBC-2/playlist.m3u8
 #EXTINF:-1,MBC ACTION
-http://51.255.81.190:8080/MBC-Action/playlist.m3u8
 #EXTINF:-1,MBC Bollywood
 http://51.255.81.190:8080/MBC-Bollywood/playlist.m3u8
 #EXTINF:-1,bein Movies 1
 http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
-#EXTINF:-1,OSN Movies Action
-http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
-#EXTINF:-1,OSN Movies
-http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
-#EXTINF:-1,AR OSN box office 1
-http://149.202.198.114:8000/play/arosnboxoffice1
-#EXTINF:-1,AR-OSN Cinema2
-http://149.202.198.114:8000/play/arosncinema2
-#EXTINF:-1,AR OSN FANN
-http://149.202.198.114:8000/play/arosnfann
-#EXTINF:-1,AR- BeIN_Movies_1HD
-http://149.202.198.114:8000/play/arbeinmovie1hd
-#EXTINF:-1,AR-BeIN_Movies_2HD
-http://149.202.198.114:8000/play/arbeinmovie2hd
-#EXTINF:-1,AR-OSN MOVIE PREMIERE
-http://149.202.198.114:8000/play/arosnmoviepremiere
-#EXTINF:-1,AR- OSN_Al_youm
-http://149.202.198.114:8000/play/arosnalyoum
-#EXTINF:-1,AR-osn box office 3
-http://149.202.198.114:8000/play/arosnboxoffice3
-#EXTINF:-1,AR OSN ON Demande 3
-http://149.202.198.114:8000/play/arosnondemande3
-#EXTINF:-1,Ar-Damaa tv
-http://149.202.198.114:8000/play/Ar-Damaa
-#EXTINF:-1,AR- OSN_MOVIES HD
-http://149.202.198.114:8000/play/arosnmovieshd
-#EXTINF:-1,AR OSN ON Demande 1
-http://149.202.198.114:8000/play/arosnondemande1
-#EXTINF:-1,National Geographic
-http://5.32.132.219:4080/udp/230.1.1.72:1000
 
 #EXTINF:-1, [COLOR green] --Moroccan Channels--[/COLOR]  
 #EXTINF:-1, alaoulainter
 http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=150000.m3u8
-#EXTINF:-1, alaoulalayoune
-http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=150000.m3u8
 #EXTINF:-1, 2m maroc
 http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8
 #EXTINF:-1, arriadia
@@ -59,26 +26,6 @@ http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-vide
 http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=150000.m3u8
 
 #EXTINF:-1, [COLOR green] --US Channels--[/COLOR]  
-#EXTINF:-1,USA: Bein USA
-http://cp.dmbshare.net:8000/live/tullio/tullio/4582.ts
-#EXTINF:-1,USA: Syfy USA
-http://cp.dmbshare.net:8000/live/tullio/tullio/4593.ts
-#EXTINF:-1,USA: ABC USA
-http://cp.dmbshare.net:8000/live/tullio/tullio/4601.ts
-#EXTINF:-1,USA: Showtime USA
-http://cp.dmbshare.net:8000/live/tullio/tullio/4581.ts
-#EXTINF:-1,USA: NBC USA
-http://cp.dmbshare.net:8000/live/tullio/tullio/4578.ts
-#EXTINF:-1,USA: Showtime USA
-http://cp.dmbshare.net:8000/live/serkan/serkan/4581.ts
-#EXTINF:-1,USA: Syfy USA
-http://cp.dmbshare.net:8000/live/serkan/serkan/4593.ts
-#EXTINF:-1,USA: Starz
-http://cp.dmbshare.net:8000/live/serkan/serkan/4599.ts
-#EXTINF:-1,USA: History
-http://cp.dmbshare.net:8000/live/serkan/serkan/4573.ts
-#EXTINF:-1,USA: Cinemax East
-http://cp.dmbshare.net:8000/live/serkan/serkan/4600.ts
 
 
 
@@ -95,37 +42,9 @@ http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9022.ts
 
 
 #EXTINF:-1, [COLOR green] --Sport Channels--[/COLOR]  
-#EXTINF:0,beinHD_Sports_HD1
-http://37.187.24.177:80/mans35/mans35/699.ch
-#EXTINF:0,beinHD_Sports_HD2
-http://37.187.24.177:80/mans35/mans35/700.ch
-#EXTINF:0,beinHD_Sports_HD3
-http://37.187.24.177:80/mans35/mans35/701.ch
-#EXTINF:0,beinHD_Sports_HD5
-http://37.187.24.177:80/mans35/mans35/703.ch
-#EXTINF:0,beinHD_Sports_HD6
-http://37.187.24.177:80/mans35/mans35/704.ch
-#EXTINF:0,beinHD_Sports_HD7
-http://37.187.24.177:80/mans35/mans35/705.ch
-#EXTINF:-1,Bein Sport HD7
-http://149.202.198.114:8000/play/beinshd7
-#EXTINF:0,beinHD_Sports_HD8
-http://37.187.24.177:80/mans35/mans35/706.ch
 #EXTINF:0,beinHD_Sports_HD9
 http://37.187.24.177:80/mans35/mans35/707.ch
-#EXTINF:0,beinHD_Sports_HD10
-http://37.187.24.177:80/mans35/mans35/708.ch
 #EXTINF:0,beinHD_Sports_HD11
 http://37.187.24.177:80/mans35/mans35/709.ch
 
 #EXTINF:-1, [COLOR green] --Kids--[/COLOR]
-#EXTINF:-1,AR OSN YA HALA SHABAB By www.iptv4free.com
-http://149.202.198.114:8000/play/arosnyahalashabab
-#EXTINF:-1,USA: Nick Jr
-http://cp.dmbshare.net:8000/live/serkan/serkan/4617.ts
-#EXTINF:-1,USA: Spike USA
-http://cp.dmbshare.net:8000/live/serkan/serkan/4579.ts
-#EXTINF:-1,VIP: US NICK
-http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9012.ts
-
-
