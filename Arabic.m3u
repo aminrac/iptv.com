@@ -31,6 +31,32 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
 #EXTINF:-1, [COLOR green] --Sport Channels--[/COLOR]  
+#EXTINF:-1,Bein Sport1 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/804.ts 
+#EXTINF:-1,Bein Sport2 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/805.ts 
+#EXTINF:-1,Bein Sport3 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/806.ts 
+#EXTINF:-1,Bein Sport4 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/807.ts 
+#EXTINF:-1,Bein Sport5 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/808.ts 
+#EXTINF:-1,Bein Sport6 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/809.ts 
+#EXTINF:-1,Bein Sport7 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/810.ts 
+#EXTINF:-1,Bein Sport8 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/811.ts 
+#EXTINF:-1,Bein Sport9 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/812.ts 
+#EXTINF:-1,Bein Sport10 AR
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/813.ts
+#EXTINF:-1,Bein Sport1 HD
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/290.ts 
+#EXTINF:-1,Bein Sport2 HD
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/291.ts 
+#EXTINF:-1,Bein Sport3 HD
+http://proxiiptv.dyndns.tv:8000/live/perparim8/perparim8/565.ts 
 #EXTINF:0,beinHD_Sports_HD9
 http://37.187.24.177:80/mans35/mans35/707.ch
 #EXTINF:0,beinHD_Sports_HD11
