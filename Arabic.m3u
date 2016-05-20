@@ -131,19 +131,39 @@ rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 
 #EXTINF:-1, [COLOR green] --Testing--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:0,CW
-http://109.236.92.136:1935/live/cw9.stream/playlist.m3u8
-#EXTINF:0,sky movies action
-http://109.236.92.136:1935/live/mcrime.stream/playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
-#EXTINF:0,sky movies drama
-http://109.236.92.136:1935/live/mdrama.stream/playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
-#EXTINF:0,sky movies comedy
-http://109.236.92.136:1935/live/mcomedy.stream/playlist.m3u8
-#EXTINF:0,sky movies family
-http://109.236.92.136:1935/live/mfamily.stream/playlist.m3u8
-#EXTINF:0,sky movies scifi
-http://109.236.92.136:1935/live/mscifi.stream/playlist.m3u8
+
+Home / IPTV Links / Sport / USA / IPTV Playlist USA
+IPTV Playlist USANo Comments on IPTV Playlist USA 3529
+IPTV Playlist USA
+IPTV LINKS, SPORT, USA October 15, 2015 , by Don 3529
+24
+IPTV Playlist USA
+#EXTM3U
+#EXTINF:0,espn2
+http://192.99.147.19:5808/espn2guys/index.m3u8
+#EXTINF:0,espnHD
+http://192.99.147.19:5808/espnhdguys/index.m3u
+#EXTINF:0,cbs
+http://192.99.147.19:5808/cbshdguys/index.m3u
+#EXTINF:0,fox hd
+http://192.99.147.19:5808/foxhdguys/index.m3u8
+#EXTINF:0,abc
+http://192.99.147.19:5808/abchdguys/index.m3u8
+#EXTINF:0,foxsport
+http://192.99.147.19:5808/foxsports/index.m3u
+#EXTINF:0,foxsport2
+http://192.99.147.19:5808/foxsports2/playlist.m3u8
+#EXTINF:0,nbc
+http://192.99.147.19:5808/nbchdguys/index.m3u8
+#EXTINF:0,CBS 2
+http://192.99.147.19:5808/cbshdguys/playlist.m3u8
+#EXTINF:0,NBC 4
+http://192.99.147.19:5808/nbchdguys/index.m3u8
+#EXTINF:0,ABC 7
+http://192.99.147.19:5808/abchdguys/playlist.m3u8
+#EXTINF:0,FOX 5
+http://192.99.147.19:5808/foxhdguys/index.m3u8 ?
+#EXTINF:0,ESPN
+http://192.99.147.19:5808/espnhdguys/playlist.m3u8
+#EXTINF:0,FOX SPORTS 1
+http://192.99.147.19:5808/foxsports/playlist.m3u8
