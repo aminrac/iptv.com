@@ -117,7 +117,7 @@ http://37.187.24.177:80/sofien/sofien/889.ch
 #EXTINF:-1,UMP_Movies_UK
 http://37.187.24.177:80/sofien/sofien/886.ch
 
-#EXTINF:-1, [COLOR green] --Testing--[/COLOR]  
+#EXTINF:-1, [COLOR green] --Us. channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1, ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -128,9 +128,3 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpa
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
-#EXTINF:-1,AR: OSN Nat Geo HD
-http://www.x-media.tv:58080/live/luanda75/satlover.com/1223.ts
-#EXTINF:-1,AR: Fatafeat
-http://www.x-media.tv:58080/live/luanda75/satlover.com/858.ts
-#EXTINF:-1,AR: OSN Nat Geo People HD
-http://www.x-media.tv:58080/live/luanda75/satlover.com/1228.ts
