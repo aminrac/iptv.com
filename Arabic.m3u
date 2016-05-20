@@ -55,28 +55,14 @@ http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b12
 
 #EXTINF:-1, [COLOR green] --Islamic Channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:-1,AL RISALAH
-http://46.101.9.226/60/ch1146/index.m3u8
-#EXTINF:-1,IQRAA
-http://46.101.9.226/60/ch1272/index.m3u8
+
 
 #EXTINF:-1, [COLOR green] --News Channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1,Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-#EXTINF:-1,AL JAZEERA
-http://46.101.9.226/60/ch1079/index.m3u8
-#EXTINF:-1,AL JAZEERA DOCUMENTARY
-http://46.101.9.226/60/ch1081/index.m3u8
-#EXTINF:-1,AL JAZEERA ENGLISH
-http://46.101.9.226/60/ch1081/index.m3u8
-#EXTINF:-1,AL JAZEERA MOBASHAR
-http://46.101.9.226/60/ch1080/index.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Aljazeera En
-http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
-
 
 
 #EXTINF:-1, [COLOR green] --Sport Channels--[/COLOR]  
@@ -135,3 +121,32 @@ http://37.187.24.177:80/sofien/sofien/862.ch
 http://37.187.24.177:80/sofien/sofien/889.ch
 #EXTINF:-1,UMP_Movies_UK
 http://37.187.24.177:80/sofien/sofien/886.ch
+
+#EXTINF:-1, [COLOR green] --Testing--[/COLOR]  
+http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, MSNBC
+rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
+ 
+#EXTINF:-1, NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+
+#EXTINF:-1, HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+ 
+#EXTINF:-1, HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+
+#EXTINF:-1, Disney Channel
+rtmp://stream.connectcast.tv/live playpath=mp4:CC-F91655E4-277C-E23A-B447-5E1B21E83E21-31816 swfUrl=http://connectcast.tv/jwplayer/v6.12/jwplayer.flash.swf live=1 pageUrl=http://connectcast.tv/hoaney
+
+#EXTINF:-1, Tom and Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
