@@ -25,23 +25,22 @@ http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101=6400
 http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=150000.m3u8
 #EXTINF:-1, tamazight
 http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=150000.m3u8
-#EXTINF:0,AR-OSN MOVIE ACTION 2
-http://149.202.198.114:8000/play/arosnmovieaction2
+
+#EXTINF:0,OSN box office 1
+http://149.202.198.114:8000/play/arosnboxoffice1
+#EXTINF:0,OSN box office 3
+http://149.202.198.114:8000/play/arosnboxoffice3
 #EXTINF:0,AR OSN ON Demande 1
 http://149.202.198.114:8000/play/arosnondemande1
-#EXTINF:0,AR OSN ON Demande 2
+#EXTINF:0,OSN ON Demande 2
 http://149.202.198.114:8000/play/arosnondemande2
-#EXTINF:0,AR-OSN Cinema2
+#EXTINF:0,OSN Cinema 2
 http://149.202.198.114:8000/play/arosncinema2
-#EXTINF:0,Ar-Damaa tv
+#EXTINF:0,AR-OSN MOVIE ACTION 2
+http://149.202.198.114:8000/play/arosnmovieaction2
+#EXTINF:0,Damaa tv
 http://149.202.198.114:8000/play/Ar-Damaa
-#EXTINF:0,AR OSN YA HALA DRAMA
-http://149.202.198.114:8000/play/arosnyahaladrama
-#EXTINF:0,AR OSN box office 1
-http://149.202.198.114:8000/play/arosnboxoffice1
-#EXTINF:0,AR-osn box office 3
-http://149.202.198.114:8000/play/arosnboxoffice3
-#EXTINF:0,AR OSN YA HALA DRAMA
+#EXTINF:0,OSN YA HALA DRAMA
 http://149.202.198.114:8000/play/arosnyahaladrama
 #EXTINF:-1,TIME COMEDY
 http://109.70.218.70:8900/play/a083
@@ -51,6 +50,12 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b12
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,Dubai Zaman
 http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
+#EXTINF:0,BeIN_Movies_1HD
+http://149.202.198.114:8000/play/arbeinmovie1hd
+#EXTINF:0,BeIN_Movies_2HD
+http://149.202.198.114:8000/play/arbeinmovie2hd
+#EXTINF:0,AR- OSN_Al_youm
+http://149.202.198.114:8000/play/arosnalyoum
 
 
 #EXTINF:-1, [COLOR green] --Islamic Channels--[/COLOR]  
