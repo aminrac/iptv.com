@@ -121,29 +121,19 @@ http://37.187.24.177:80/sofien/sofien/886.ch
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1, ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
-
-#EXTINF:-1, CNN International
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-
-#EXTINF:-1, MSNBC
-rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
- 
-#EXTINF:-1, NASA
-http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
-
 #EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
- 
 #EXTINF:-1, HSN 2
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
-
-#EXTINF:-1, Disney Channel
-rtmp://stream.connectcast.tv/live playpath=mp4:CC-F91655E4-277C-E23A-B447-5E1B21E83E21-31816 swfUrl=http://connectcast.tv/jwplayer/v6.12/jwplayer.flash.swf live=1 pageUrl=http://connectcast.tv/hoaney
-
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF:1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1,MBC 1
 http://teledunet.tv:8888/mbc_1.m3u8?idu=hmemar_68112242640
