@@ -97,3 +97,63 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1, [COLOR green] --Documentary--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
+
+
+
+#EXTINF:-1, [COLOR green] --US Channels--[/COLOR]  
+http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
+#EXTINF:-1, 3D:hbo
+rtsp://218.248.64.82.554:/
+#EXTINF:-1, 3D:http://31.220.41.111:80/LiveEdge/HBO2EastHD/playlist.m3u8
+http://31.220.41.111:80/LiveEdge/HBO2EastHD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+#EXTINF:-1, English:hbo comedy
+http://goo.gl/luvfqF
+#EXTINF:-1, HD:HBO
+http://tv4embed.com/usa/Hbo-stream2.html
+#EXTINF:-1, HD:Animal Planet HD
+http://127.0.0.1:6878/ace/getstream?id=7608251160d0a244d1bb46c026b897898571eb84
+#EXTINF:-1, English:Animal Planet
+http://5.152.199.130/iptv/2A58VZ6Q2V/137/index.m3u8
+#EXTINF:-1, Arabian:NATIONAL GEOGRAPHIC ABU DHABI
+http://bit.do/natgeoabu-lore
+#EXTINF:-1, Arabian:NATIONAL GEOGRAPHIC ناشيونال جيوجرافيك
+rtmp://$OPT:rtmp-raw=rtmp://184.173.181.3/live playpath=trhtgfjhgjhg?id=147478 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380 conn=S:OK
+#EXTINF:-1, Arabian:national-geographic
+http://mangaplustv.com/national-geographic-abu-dhabi/ ... weekly 0.3
+#EXTINF:-1, English:National Geographic
+http://5.152.199.130/iptv/2A58VZ6Q2V/134/index.m3u8
+
+#EXTINF:-1, 3D:fox
+http://123.29.74.98/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1, 3D:fox
+http://123.29.74.98/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1, 3D:fox 2
+http://www.tv-porinternet.com/2013/03/fox-sports-2-en-vivo.html
+#EXTINF:-1, 3D:fox move
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/fox_movies
+#EXTINF:-1, 3D:Fox Movies
+http://62.63.207.51:4242/udp/239.193.0.8:3301?auth=yes?
+#EXTINF:-1, 3D:FOX MOVIES arab
+http://demo.xtream-codes.com/7KLqvyknFb/brahim/daz/19.ch
+#EXTINF:-1, 3D:fox sd 1
+rtmp://$OPT:rtmp-raw=rtmp://207.244.66.208/live playpath=zeyufoxx1?id=232207&pk=549488db033a0f45ae82538c669cf7483049b69dfc0f4ccaf5b1d9d04d209625 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf
+#EXTINF:-1, English:FOX Crime
+rtmp://206.190.139.28/live playpath=foxcrime600?id=9078 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/foxcrime600/1/580/460
+#EXTINF:-1, English:Fox Movies
+rtmp://$OPT:rtmp-raw=rtmp://110.5.111.62/live/ playpath=mvstarx01 swfUrl=http://miru.akulihat.com/2/player/player.swf live=1 pageUrl=http://miru.akulihat.com/2/index2.php?id=5&title=MOVIE
+#EXTINF:-1, English:fox movies
+http://27.254.84.3:1935/live/tdifox.stream/zgs.m3u8
+#EXTINF:-1, English:Fox Movies
+rtmp://$OPT:rtmp-raw=rtmp://173.193.205.94/live playpath=f4rfoxmovies?id=71067 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ conn=S:OK –live
+#EXTINF:-1, English:Fox Movies
+http://38.99.146.36:7777/FoxMovies_HD.m3u8
+#EXTINF:-1, English:Fox News
+http://50.7.69.186:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:-1, English:Fox Soccer Plus HD
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
+#EXTINF:-1, English:FOX TV
+rtmp://$OPT:rtmp-raw=rtmp://37.220.36.8:1935/stream playpath=fox2.stream swfurl=http://www.zonytvcom.info/saki2/player/player-licensed.swf pageurl=http://zonytvcom.info/saki2/embed.php?live=fox2stream
+#EXTINF:-1, HD:FOX MOVIE PREMIUM HD (480*270)
+http://103.22.181.87:1935/livetv/FOXMOVIEHD.stream/chengye.m3u8?uttasak,12345
+#EXTINF:-1, HD:FOX TV
+http://181.229.103.85:667/channel6
