@@ -114,3 +114,11 @@ http://ysfalemdar.iptv.re:4022/udp/238.21.13.27:5004
 http://ysfalemdar.iptv.re:4022/udp/238.21.13.29:5004
 #EXTINF:-1,MBC DRAMA
 http://ysfalemdar.iptv.re:4022/udp/238.21.13.31:5004
+#EXTINF:-1,Sky_Family_UK
+http://37.187.24.177:80/sofien/sofien/860.ch
+#EXTINF:-1,Sky_Greats_UK
+http://37.187.24.177:80/sofien/sofien/858.ch
+#EXTINF:-1,Sky_Prem+1_UK
+http://37.187.24.177:80/sofien/sofien/855.ch
+#EXTINF:-1,Sky_Monsters_UK
+http://37.187.24.177:80/sofien/sofien/861.ch
