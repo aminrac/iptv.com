@@ -102,13 +102,15 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
 #EXTINF:-1, [COLOR green] --US Channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:-1,OSN action
-http://esiptv.mine.nu/633/650
-#EXTINF:-1,OSN action2
-http://esiptv.mine.nu/668/650
-#EXTINF:-1,OSN BoxOffice 1
-http://esiptv.mine.nu/662/650
-#EXTINF:-1,OSN BoxOffice 2
-http://esiptv.mine.nu/663/650
-#EXTINF:-1,OSN Cinema 1
-http://esiptv.mine.nu/627/650
+#EXTINF:-1,MBC 1
+http://ysfalemdar.iptv.re:4022/udp/238.21.13.25:5004
+#EXTINF:-1,MBC 4
+http://ysfalemdar.iptv.re:4022/udp/238.21.13.26:5004
+#EXTINF:-1,MBC 3
+http://ysfalemdar.iptv.re:4022/udp/238.21.13.28:5004
+#EXTINF:-1,MBC 2
+http://ysfalemdar.iptv.re:4022/udp/238.21.13.27:5004
+#EXTINF:-1,CITRUSS TV
+http://ysfalemdar.iptv.re:4022/udp/238.21.13.29:5004
+#EXTINF:-1,MBC DRAMA
+http://ysfalemdar.iptv.re:4022/udp/238.21.13.31:5004
