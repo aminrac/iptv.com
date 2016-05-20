@@ -102,45 +102,22 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
 #EXTINF:-1, [COLOR green] --US Channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:-1, English:A&E HD
-http://goo.gl/X9DAx3
-#EXTINF:-1, English:abc
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:-1, English:ABC7 USA
-http://93.184.221.133/00573D/1086/1086-0.m3u8
-#EXTINF:-1, English:aerostar tv
-http://www.dailymotion.com/video/x2ghbzf
-#EXTINF:-1, English:AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-#EXTINF:-1, English:AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-#EXTINF:-1, English:AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-#EXTINF:-1, English:AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-#EXTINF:-1, English:Animal Planet
-http://5.152.199.130/iptv/2A58VZ6Q2V/137/index.m3u8
-#EXTINF:-1, English:animalplanet
-http://luxtivi.k18.us/animalplanet.m3u8
-#EXTINF:-1, English:Animax
-rtmp://110.5.111.166/live/mvanimaxx01
-#EXTINF:-1, English:CNN Int.
-http://109.233.194.252:5556/udp/224.21.21.60:1234
-#EXTINF:-1, English:CNN US
-http://85.25.246.141:8081/News/CNNHD/playlist.m3u8
-#EXTINF:-1, English:Comedy Central
-http://217.117.226.215:5000/udp/239.100.3.5:4422
-#EXTINF:-1, English:Comedy Central HD (USA)
-http://ORBIT-IPTV.COM:2500/live/meer/meer/2215.ts
-#EXTINF:-1, English:Comedy Central UK
-http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_UK?auth=test+test
-#EXTINF:-1, English:Discovery Channel
-http://5.152.199.130/iptv/2A58VZ6Q2V/140/index.m3u8
-#EXTINF:-1, English:Discovery Channel
-http://217.117.226.215:5000/udp/239.100.3.6:4422
-#EXTINF:-1, English:Discovery Science
-http://5.152.199.130/iptv/2A58VZ6Q2V/136/index.m3u8
-#EXTINF:-1, English:Discovery World
-http://5.152.199.130/iptv/2A58VZ6Q2V/135/index.m3u8
-
+#EXTINF:-1,Sky Movies Action & Adventure
+http://188.227.189.18:8082/TV4245
+#EXTINF:-1,Sky Movies Comedy
+http://188.227.189.18:8082/TV4246
+#EXTINF:-1,Sky Movies Disney
+http://188.227.189.18:8082/TV4247
+#EXTINF:-1,Sky Movies Family
+http://188.227.189.18:8082/TV4248
+#EXTINF:-1,Sky Movies Premiere
+http://188.227.189.18:8082/TV4251
+#EXTINF:-1,Sky Movies Premiere+
+http://188.227.189.18:8082/TV4252
+#EXTINF:-1,Sky Movies SciFi
+http://188.227.189.18:8082/TV4249
+#EXTINF:-1,Sky Sky Movies Select
+http://188.227.189.18:8082/TV4254
+#EXTINF:-1,Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
 
