@@ -91,7 +91,12 @@ http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1, [COLOR green] --Kids--[/COLOR]
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-
+#EXTINF:-1,SPACETOON ARABIC
+http://ysfalemdar.iptv.re:4022/udp/238.21.11.64:5004
+#EXTINF:-1,2M Maroc
+http://ysfalemdar.iptv.re:4022/udp/238.21.11.81:5004
+#EXTINF:-1,MODY KIDS
+http://ysfalemdar.iptv.re:4022/udp/238.21.12.33:5004
 
 
 #EXTINF:-1, [COLOR green] --Documentary--[/COLOR]  
@@ -100,7 +105,7 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
 
 
-#EXTINF:-1, [COLOR green] --US Channels--[/COLOR]  
+#EXTINF:-1, [COLOR green] --UK Channels--[/COLOR]  
 #EXTINF:-1,Sky_Greats_UK
 http://37.187.24.177:80/sofien/sofien/858.ch
 #EXTINF:-1,Sky_Prem+1_UK
@@ -117,35 +122,3 @@ http://37.187.24.177:80/sofien/sofien/862.ch
 http://37.187.24.177:80/sofien/sofien/889.ch
 #EXTINF:-1,UMP_Movies_UK
 http://37.187.24.177:80/sofien/sofien/886.ch
-#EXTINF:0,NatGeoHD
-http://185.46.163.221:4466/NatGeoHD
-#EXTINF:0,NatGeoWildHD
-http://185.46.163.221:4466/NatGeoWildHD
-#EXTINF:0,ViasatHistoryHD
-http://185.46.163.221:4466/ViasatHistoryHD
-#EXTINF:0,TravelChannel
-http://185.46.163.221:4477/TravelChannel
-#EXTINF:0,AnimalPlanet
-http://185.46.163.221:4477/AnimalPlanet
-#EXTINF:-1,Cartoon Network
-http://185.46.163.221:4477/CartoonNetwork
-#EXTINF:-1,CNN
-http://185.46.163.221:4477/CNN
-#EXTINF:-1,Discovery Channel
-http://185.46.163.221:4477/DiscoveryChannel
-#EXTINF:-1,Discovery Science
-http://185.46.163.221:4477/DiscoveryScience
-#EXTINF:-1,Discovery World
-http://185.46.163.221:4477/DiscoveryWorld
-#EXTINF:-1,Disney Channel
-http://185.46.163.221:4477/DisneyChannel
-#EXTINF:-1,FOX
-http://185.46.163.221:4477/FOX
-#EXTINF:-1,FOX Life
-http://185.46.163.221:4477/FOXLife
-#EXTINF:-1,FOX Crime
-http://185.46.163.221:4477/FOXCrime
-#EXTINF:0,#EXTINF:-1,Nat Geo Wild
-http://185.46.163.221:4477/NatGeoWild
-#EXTINF:-1,National Geographic
-http://185.46.163.221:4477/NationalGeographic
