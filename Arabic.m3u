@@ -129,6 +129,8 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpa
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
+#EXTINF:-1, [COLOR green] --Testing--[/COLOR]  
+http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1,SpaceToon
 http://2.109.65.138/masa/13768.m3u8
 #EXTINF:-1,AR: OSN BOX OFFICE 1
@@ -197,23 +199,4 @@ http://portal.rapidiptv.com:8080/live/skype/zaftra84/5711.m3u8
 http://portal.rapidiptv.com:8080/live/skype/zaftra84/6291.m3u8
 #EXTINF:-1,AR: AL JAZEERA
 http://portal.rapidiptv.com:8080/live/skype/zaftra84/6288.m3u8
-#EXTINF:-1,AR: IQRAA
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/6279.m3u8
-#EXTINF:-1,AR: Quran
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/6280.m3u8
-#EXTINF:-1,AR: OSN NATIONAL GEOGRAPHIC HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5749.m3u8
-#EXTINF:-1,AR: OSN NAT GEO WILD HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5752.m3u8
-#EXTINF:-1,AR: OSN DISCOVERY SCIENCE HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5748.m3u8
-#EXTINF:-1,AR: OSN DISCOVERY ID
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5746.m3u8
-#EXTINF:-1,AR: OSN DISCOVERY HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5747.m3u8
-#EXTINF:-1,AR: OSN ANIMAL PLANET HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5751.m3u8
-#EXTINF:-1,AR: FOX MOVIES
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5756.m3u8
-#EXTINF:-1,AR: Spacetoon
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5774.m3u8
+
