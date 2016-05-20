@@ -131,72 +131,19 @@ rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 
 #EXTINF:-1, [COLOR green] --Testing--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:-1,SpaceToon
-http://2.109.65.138/masa/13768.m3u8
-#EXTINF:-1,AR: OSN BOX OFFICE 1
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5742.m3u8
-#EXTINF:-1,AR: OSN NATIONAL GEOGRAPHIC HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5749.m3u8
-#EXTINF:-1,AR: OSN NAT GEO WILD HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5752.m3u8
-#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5727.m3u8
-#EXTINF:-1,AR: OSN MOVIES HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5721.m3u8
-#EXTINF:-1,AR: OSN MOVIES First More HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5736.m3u8
-#EXTINF:-1,AR: OSN MOVIES FESTIVAL HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5728.m3u8
-#EXTINF:-1,AR: OSN BOX OFFICE 2
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5741.m3u8
-#EXTINF:-1,AR: OSN BOX OFFICE 3
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5740.m3u8
-#EXTINF:-1,AR: OSN MOVIES COMEDY HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5724.m3u8
-#EXTINF:-1,AR: OSN MOVIES ACTION HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5722.m3u8
-#EXTINF:-1,AR: OSN Movie kids HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5734.m3u8
-#EXTINF:-1,AR: OSN MBC   DRAMA
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5719.m3u8
-#EXTINF:-1,AR: OSN DISCOVERY SCIENCE HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5748.m3u8
-#EXTINF:-1,AR: OSN DISCOVERY ID
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5746.m3u8
-#EXTINF:-1,AR: OSN DISCOVERY HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5747.m3u8
-#EXTINF:-1,AR: OSN ANIMAL PLANET HD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5751.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://iptvhd.zapto.org:3500/movie/ceyhun/83013048015993/1057.mkv
-#EXTINF:-1,AR: MBC 1
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5707.m3u8
-#EXTINF:-1,AR: MBC 2
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5708.m3u8
-#EXTINF:-1,AR: MBC 3
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5709.m3u8
-#EXTINF:-1,AR: MBC 4
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5710.m3u8
-#EXTINF:-1,AR: MBC MASR
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5712.m3u8
-#EXTINF:-1,AR: MBC MASR 2
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5715.m3u8
-#EXTINF:-1,AR: MBC DRAMA
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5714.m3u8
-#EXTINF:-1,AR: MBC BOLLYWOOD
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5716.m3u8
-#EXTINF:-1,AR: MBC ACTION
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5713.m3u8
-#EXTINF:-1,AR: MBC Pro1
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5718.m3u8
-#EXTINF:-1,AR: MBC Pro2
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5717.m3u8
-#EXTINF:-1,AR: MBC Pro3
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5723.m3u8
-#EXTINF:-1,AR: MBC MAX
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/5711.m3u8
-#EXTINF:-1,AR:ALJAZEERA ENGLISH
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/6291.m3u8
-#EXTINF:-1,AR: AL JAZEERA
-http://portal.rapidiptv.com:8080/live/skype/zaftra84/6288.m3u8
-
+#EXTINF:0,CW
+http://109.236.92.136:1935/live/cw9.stream/playlist.m3u8
+#EXTINF:0,sky movies action
+http://109.236.92.136:1935/live/mcrime.stream/playlist.m3u8
+#EXTINF:0,sky movies premiere
+http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
+#EXTINF:0,sky movies drama
+http://109.236.92.136:1935/live/mdrama.stream/playlist.m3u8
+#EXTINF:0,sky movies premiere
+http://109.236.92.136:1935/live/mpremiere.stream/playlist.m3u8
+#EXTINF:0,sky movies comedy
+http://109.236.92.136:1935/live/mcomedy.stream/playlist.m3u8
+#EXTINF:0,sky movies family
+http://109.236.92.136:1935/live/mfamily.stream/playlist.m3u8
+#EXTINF:0,sky movies scifi
+http://109.236.92.136:1935/live/mscifi.stream/playlist.m3u8
