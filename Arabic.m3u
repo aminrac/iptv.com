@@ -63,7 +63,12 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1,Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-
+#EXTINF:-1,Aljazeera
+http://teledunet.tv:8888/aljazeera.m3u8?idu=hmemar_68112242640
+#EXTINF:-1,Aljazeera Doc
+http://teledunet.tv:8888/aljazeera_doc.m3u8?idu=hmemar_68112242640
+#EXTINF:-1,Aljazeera Misr
+http://teledunet.tv:8888/aljazeera_misr.m3u8?idu=hmemar_68112242640
 
 
 
@@ -87,16 +92,26 @@ http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Dubai Racing 1
 http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Sportube 1
+http://sportube-lh.akamaihd.net/i/canale1_1@93401/master.m3u8
+#EXTINF:-1,Sportube 2
+http://sportube-lh.akamaihd.net/i/canale2_1@117163/master.m3u8
+#EXTINF:-1,Sportube 3
+http://sportube-lh.akamaihd.net/i/canale3_1@96951/master.m3u8
+#EXTINF:-1,Sportube 4
+http://sportube-lh.akamaihd.net/i/canale4_1@117164/master.m3u8
+#EXTINF:-1,Sportube 5
+http://sportube-lh.akamaihd.net/i/canale5_1@97163/master.m3u8
+#EXTINF:-1,Sportube 6
+http://sportube-lh.akamaihd.net/i/canale6_1@117172/master.m3u8
+#EXTINF:-1,Sportube 7
+http://sportube-lh.akamaihd.net/i/canale7_1@97349/master.m3u8
+#EXTINF:-1,Sportube 8
+http://sportube-lh.akamaihd.net/i/canale8_1@122600/master.m3u8
 
 
 #EXTINF:-1, [COLOR green] --Kids--[/COLOR]
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:-1,SPACETOON ARABIC
-http://ysfalemdar.iptv.re:4022/udp/238.21.11.64:5004
-#EXTINF:-1,2M Maroc
-http://ysfalemdar.iptv.re:4022/udp/238.21.11.81:5004
-#EXTINF:-1,MODY KIDS
-http://ysfalemdar.iptv.re:4022/udp/238.21.12.33:5004
 
 
 #EXTINF:-1, [COLOR green] --Documentary--[/COLOR]  
@@ -106,6 +121,7 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
 
 #EXTINF:-1, [COLOR green] --UK Channels--[/COLOR]  
+http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1,Sky_Greats_UK
 http://37.187.24.177:80/sofien/sofien/858.ch
 #EXTINF:-1,Sky_Prem+1_UK
