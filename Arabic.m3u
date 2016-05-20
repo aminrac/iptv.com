@@ -89,12 +89,7 @@ http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1, [COLOR green] --Kids--[/COLOR]
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:-1,CARTOON NETWEORK ARABIC
-http://46.101.9.226/60/ch1335/index.m3u8
-#EXTINF:-1,JEEM KIDS
-http://46.101.9.226/60/ch1192/index.m3u8
-#EXTINF:-1,KOKY KIDS
-http://46.101.9.226/60/ch1350/index.m3u8
+
 
 
 #EXTINF:-1, [COLOR green] --Documentary--[/COLOR]  
@@ -150,3 +145,5 @@ rtmp://stream.connectcast.tv/live playpath=mp4:CC-F91655E4-277C-E23A-B447-5E1B21
 
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF:-1,MBC 1
+http://teledunet.tv:8888/mbc_1.m3u8?idu=hmemar_68112242640
