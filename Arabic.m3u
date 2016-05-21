@@ -66,20 +66,6 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:0,Aljazeera English TV
-rtsp://media4.lsops.net/live/aljazeer_en_high.sdp
-#EXTINF:0,CNN
-rtsp://media2.lsops.net:554/live/cnn_en_medium.sdp
-#EXTINF:0,CNN
-rtsp://media2.lsops.net:554/live/cnn_en_high.sdp
-#EXTINF:0,CNN
-http://86.105.253.79:9135/cnn.asf
-#EXTINF:0,Aljazeera Documentary TV
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
-#EXTINF:0,Aljazeera Kids Tv (updated)
-rtsp://78.100.44.238/live-jscc/jscc
-#EXTINF:0,ALjazeera mubasher TV
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_mubasher_1
 
 
 
