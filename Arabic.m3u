@@ -62,9 +62,8 @@ http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b12
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1,Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
 #EXTINF:-1, [COLOR green] --Sport Channels--[/COLOR]  
@@ -91,7 +90,7 @@ http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1, [COLOR green] --Documentary--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:0, Aljazeera Doc
+#EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
@@ -116,27 +115,30 @@ http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 
 #EXTINF:-1, [COLOR green] --Islamic Channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-
+#EXTINF:-1,Medine
+http://46.245.160.224/medine/medine/gmswf.m3u8
+#EXTINF:-1,Mekke
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
 
 
 
 #EXTINF:-1, [COLOR green] --Testing--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
-#EXTINF:0,MBC 1 
+#EXTINF:-1,MBC 1 
 http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116 
-#EXTINF:0,MBC 2 
+#EXTINF:-1,MBC 2 
 http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116 
-#EXTINF:0,MBC 3 
+#EXTINF:-1,MBC 3 
 http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116 
-#EXTINF:0,MBC 4 
+#EXTINF:-1,MBC 4 
 http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116 
-#EXTINF:0,MBC Action 
+#EXTINF:-1,MBC Action 
 http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116 
-#EXTINF:0,MBC Bollywood 
+#EXTINF:-1,MBC Bollywood 
 http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116 
-#EXTINF:0,MBC Drama 
+#EXTINF:-1,MBC Drama 
 http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116 
-#EXTINF:0,MBC Masr 
+#EXTINF:-1,MBC Masr 
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116 
-#EXTINF:0,MBC Max 
+#EXTINF:-1,MBC Max 
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116 
