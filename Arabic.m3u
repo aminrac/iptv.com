@@ -85,10 +85,6 @@ http://149.202.198.114:8000/play/beins2hd
 http://149.202.198.114:8000/play/beinshd5
 #EXTINF:0,Bein Sport HD6
 http://149.202.198.114:8000/play/beinshd6
-#EXTINF:0,Bein Sport HD9
-http://37.187.24.177:80/mans35/mans35/707.ch
-#EXTINF:0,Bein Sport HD11
-http://37.187.24.177:80/mans35/mans35/709.ch
 #EXTINF:0,Bein Sport HD 12
 http://149.202.198.114:8000/play/beinshd12
 #EXTINF:-1,Dubai Sports HD
@@ -103,8 +99,6 @@ http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,AL JAZEERA DOCUMENTARY
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
 
 #EXTINF:-1, [COLOR green] --Us. channels--[/COLOR]  
 http://boxiptv.noip.us:9998/live/ismail/ismail/1543.ts
