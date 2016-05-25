@@ -5,29 +5,53 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/841.ts</link>
 
 <item>
+<title>Aljazeera-Mubasher</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1981.ts</link>
+
+<item>
 <title>2M</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/831.ts</link>
 
 <item>
+<title>Al_Maghribia</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/2597.ts</link>
+
+<item>
+<title>Assadissa</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/2588.ts</link>
+
+<item>
+<title>Tamazight</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/2592.ts</link>
+
+<item>
 <title>AR: MBC 2 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/763.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1643.ts</link>
 
 <item>
 <title>AR: MBC 4 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/765.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1641.ts</link>
+
+
+<item>
+<title>MBC Action</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1640.ts</link>
+
+<item>
+<title>MBC MAX </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1909.ts</link>
+
+<item>
+<title>FOX Movie Ar </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/2054.ts</link>
 
 <item>
 <title>MBC MASR 2 </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/767.ts</link>
 
-
 <item>
 <title>AR: Baraem </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/772.ts</link>
-
-<item>
-<title>TAMAZIGHT </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/830.ts</link>
 
 <item>
 <title>AR: Toyor Al Janah </title>
