@@ -36,18 +36,9 @@
 <title>AR: MBC 4 </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/765.ts</link>
 
-
 <item>
 <title>MBC Action</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/770.ts</link>
-
-<item>
-<title>MBC MAX </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1909.ts</link>
-
-<item>
-<title>FOX Movie Ar </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/2054.ts</link>
 
 <item>
 <title>MBC MASR 2 </title>
@@ -77,9 +68,6 @@
 <title>AR: Al Majd </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/825.ts</link>
 
-<item>
-<title>AR:Animal Planet HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1931.ts</link>
 
 <item>
 <title>AR: Fatafeat </title>
@@ -89,129 +77,4 @@
 <title>AR:Nat Geo People HD </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/1228.ts</link>
 
-<item>
-<title>AR:DISCOVERY HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/1889.ts</link>
-
-<item>
-<title>AR: OSN Movies +2 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1218.ts</link>
-
-<item>
-<title>AR: OSN Star Movie HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1227.ts</link>
-
-<item>
-<title>AR: OSN Movies Action +2 HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1217.ts</link>
-
-<item>
-<title>AR: OSN Movies Premiere +2 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1231.ts</link>
-
-<item>
-<title>US: ABC News </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1091.ts</link>
-
-<item>
-<title>US: FOX </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1101.ts</link>
-
-<item>
-<title>US: STARZ Kids & Family HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1072.ts</link>
-
-<item>
-<title>US: Cinemax Moremax </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1070.ts</link>
-
-<item>
-<title>US: Cinemax ActionMax East </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1069.ts</link>
-
-<item>
-<title>US: Cinemax East </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1068.ts</link>
-
-<item>
-<title>US: Cinemax 5 StarMax </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1067.ts</link>
-
-<item>
-<title>US: Spike </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1062.ts</link>
-
-<item>
-<title>US:  HBO Zone HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1059.ts
-#EXTINF:-1,US: FX</link>
-
-<item>
-<title>US: HBO Signature HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/1057.ts</link>
-
-<item>
-<title>UK: Disney Channel +1 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/125.ts</link>
-
-<item>
-<title>UK: Disney Junior +1 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/127.ts</link>
-
-<item>
-<title>UK: Sky Disney </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/96.ts</link>
-
-<item>
-<title>UK: Baby Tv </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/94.ts</link>
-
-<item>
-<title>UK: Nickelodeon </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/93.ts</link>
-
-<item>
-<title>UK: Nicktoons </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/91.ts</link>
-
-<item>
-<title>UK: Cartoon Network </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/89.ts</link>
-
-<item>
-<title>UK: Fox</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/90.ts</link>
-
-<item>
-<title>UK: Sky Scifi&horror</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/34.ts</link>
-
-<item>
-<title>UK: Sky Premiere +1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/35.ts</link>
-
-<item>
-<title>UK: Sky Premiere</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/36.ts</link>
-
-<item>
-<title>UK: Sky Monsters</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/37.ts</link>
-
-<item>
-<title>UK: Sky Great</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/38.ts</link>
-
-<item>
-<title>UK: Sky Family</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/39.ts</link>
-
-<item>
-<title>UK: Sky Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/40.ts</link>
-
-<item>
-<title>UK: Sky Action</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/41.ts</link>
 
