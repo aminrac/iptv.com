@@ -2,79 +2,82 @@
 
 <item>
 <title>Aljazeera Ar</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/841.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/87.ts</link>
 
 <item>
 <title>Aljazeera-Mubasher</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/842.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/88.ts</link>
 
 <item>
 <title>2M</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/831.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8</link>
 
 <item>
 <title>Al_Maghribia</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/834.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101=64000-video=150000.m3u8</link>
 
 <item>
 <title>Assadissa</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/kashif/kashif/2588.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=150000.m3u8</link>
 
 <item>
 <title>Tamazight</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/830.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=150000.m3u8</link>
 
 <item>
 <title>MBC 1 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/762.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts</link>
 
 <item>
 <title>MBC 2 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.190:8080/MBC-2/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/47.ts</link>
 
-<item>
-<title>AR: MBC 4 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/765.ts</link>
 
 <item>
 <title>MBC Action</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/770.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/241.ts</link>
 
 <item>
-<title>MBC MASR 2 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/767.ts</link>
-
-<item>
-<title>AR: Baraem </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/772.ts</link>
+<title>MBC Drama </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts</link>
 
 <item>
 <title>AR: Toyor Al Janah </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/814.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts</link>
 
 <item>
-<title>AR: Al jazeera Children </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/863.ts</link>
+<title>Mecca </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.245.160.224/mekke/mekke/gmswf.m3u8</link>
 
 <item>
-<title>AR: Al Rasheed </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/817.ts</link>
+<title>Iqraa </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaar.smil/chunklist_w1163851770_b650000_t64MjQwcA==.m3u8</link>
 
 <item>
-<title>AR: Al Ressala </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/844.ts</link>
+<title>AR: Medina </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.245.160.224/medine/medine/gmswf.m3u8</link>
 
 <item>
 <title>AR: Al Majd </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/825.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/444.ts</link>
 
 
 <item>
-<title>AR: Fatafeat </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/mirame/hNmzKCeG/858.ts</link>
+<title>Eng Movies 1 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/583.ts</link>
 
 <item>
-<title>AR:Nat Geo People HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/macan/satlover.com/1228.ts</link>
+<title>Eng Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/584.ts</link>
 
+<item>
+<title>Nat Geo AD </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/82.ts</link>
 
+<item>
+<title>Animal Planet </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/91.ts</link>
+
+<item>
+<title>DISCOVERY-CH </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/124.ts</link>
