@@ -32,6 +32,13 @@
 <title>MBC 2 </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/47.ts</link>
 
+<item>
+<title>MBC 3 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/46.ts</link>
+
+<item>
+<title>MBC 4 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/45.ts</link>
 
 <item>
 <title>MBC Action</title>
@@ -42,12 +49,75 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts</link>
 
 <item>
-<title>AR: Toyor Al Janah </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts</link>
+<title>Eng Movies 1 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/583.ts</link>
 
 <item>
+<title>Eng Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/584.ts</link>
+
+<item>
+<title>Eng Movies 3 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/585.ts</link>
+
+<item>
+<title>Eng Movies 4 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/586.ts</link>
+
+<item>
+<title>Eng Movies 5 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/587.ts</link>
+
+<item>
+<title>Eng Movies 6 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/588.ts</link>
+
+<item>
+<title>Eng Movies 7 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/589.ts</link>
+
+<item>
+<title>Eng Movies 8 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/590.ts</link>
+
+<item>
+<title>Eng Movies 9 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/591.ts</link>
+
+<item>
+<title>Ar Movies 1 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/592.ts</link>
+
+<item>
+<title>Ar Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/424.ts</link>
+
+<item>
+<title>Ar Movies 3 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/423.ts</link>
+
+<item>
+<title>Ar Movies 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/608.ts</link>
+
+<item>
+<title>Ar Movies 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/609.ts</link>
+
+<item>
+<title>Ar Movies 6 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/610.ts</link>
+
+<item>
+<title>Ar Movies 7</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/611.ts</link>
+
+<item>
+<title> ISLAMIC </title>
+
+item>
 <title>Mecca </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.245.160.224/mekke/mekke/gmswf.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/107.ts</link>
 
 <item>
 <title>Iqraa </title>
@@ -61,14 +131,8 @@
 <title>AR: Al Majd </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/444.ts</link>
 
-
 <item>
-<title>Eng Movies 1 </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/583.ts</link>
-
-<item>
-<title>Eng Movies 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/584.ts</link>
+<title> DOCUMENTARIES </title>
 
 <item>
 <title>Nat Geo AD </title>
@@ -81,3 +145,18 @@
 <item>
 <title>DISCOVERY-CH </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/124.ts</link>
+
+<item>
+<title> KIDS </title>
+
+<item>
+<title>AR: Toyor Al Janah </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts</link>
+
+<item>
+<title>Kids Movies 1 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/639.ts</link>
+
+<item>
+<title>Kids Movies 2 </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/640.ts</link>
