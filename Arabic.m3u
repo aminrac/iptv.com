@@ -106,7 +106,7 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_hig
 #EXTINF:-1,AL JAZEERA MISIR
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_high
 #EXTINF:-1,Al Jazeera
-http://static.ls-cdn.com/player/5.10/livestation-player.swf
+http://iptv.am000.tv:8000/live/hakam/hakam/87.ts
 
 #EXTINF:0,OSN box office 1
 http://149.202.198.114:8000/play/arosnboxoffice1
