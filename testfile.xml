@@ -162,5 +162,20 @@ item>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/640.ts</link>
 
 <item>
-<title>Osn First Comdy HD </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/rita/rita/175.ts</link>
+<title>MBC 2/title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://63.237.48.23/ios/MBC2/MBC2.m3u8</link>
+
+<item>
+<title>MBC MAX/title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
+
+<item>
+<title>MBC Action/title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+
+<item>
+<title>MBC Dramatitle>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-star.com:50100/live/skype-iptv-star@hotmail.com/2d7zMPatnS/80.ts</link>
+
+
+
